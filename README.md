@@ -86,9 +86,6 @@ Each project includes room for a large screenshot, a problem statement, key feat
 
 ### 01 · 🏛️ Barangay Queue, Service & Attendance Management System
 
-<p align="center">
-  <img src="https://placehold.co/1200x560/161B22/58A6FF?text=PROJECT+01%0ABarangay+Queue+Management+System%0AReplace+with+your+project+screenshot" alt="Barangay Queue Management System screenshot placeholder" width="100%" />
-</p>
 
 **The challenge**
 
@@ -111,9 +108,6 @@ Organizing queueing, service requests, and attendance records requires a clear w
 
 ### 02 · 🛍️ Laicom Sales & Promotions
 
-<p align="center">
-  <img src="https://placehold.co/1200x560/161B22/FF7B72?text=PROJECT+02%0ALaicom+Sales+%26+Promotions%0AReplace+with+your+project+screenshot" alt="Laicom Sales and Promotions screenshot placeholder" width="100%" />
-</p>
 
 **The challenge**
 
@@ -136,9 +130,6 @@ An e-commerce application needs to connect product browsing, shopping cart opera
 
 ### 03 · 🚀 [Your Third Featured Project]
 
-<p align="center">
-  <img src="https://placehold.co/1200x560/161B22/D2A8FF?text=PROJECT+03%0AYour+Next+Featured+Build%0AReplace+with+your+project+screenshot" alt="Third project screenshot placeholder" width="100%" />
-</p>
 
 **The challenge**
 
