@@ -1,192 +1,229 @@
-# 👋 Hey, I'm Joseph Dionisio
+ <div align="center">
 
-### 🧙‍♂️ Developer in progress. Systems thinker by default.
+# 👋 Hi, I'm Joseph Dionisio
 
-**Deep dives into problems. Fast passes to practical solutions.**
+### 🧙‍♂️ Aspiring Software Developer | Builder of Practical Solutions
 
-I’m building my developer journey one project at a time — exploring how interfaces, application logic, and databases come together to solve real-world problems.
+**Deep dives into problems. Fast passes to solutions.**
 
-I enjoy breaking complex requirements into manageable pieces, experimenting with different approaches, and learning by building. My goal is to create software that is not only functional, but also understandable, maintainable, and genuinely useful.
+I'm learning to build software that solves real-world problems, from interactive web applications to systems that organize everyday workflows. I enjoy exploring programming logic, connecting frontend interfaces with backend processes, and turning ideas into working projects.
+
+</div>
 
 <p align="center">
   <a href="https://github.com/mathW1zzard">
-    <img src="https://img.shields.io/badge/GitHub-mathW1zzard-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://komarev.com/ghpvc/?username=mathW1zzard&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/joseph-dionisio-337695440/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/mathW1zzard?tab=followers">
+    <img src="https://img.shields.io/github/followers/mathW1zzard?style=for-the-badge&label=Followers&color=blue" alt="GitHub Followers" />
   </a>
-  <a href="https://www.facebook.com/joseph.dionisio.1428/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/jos5_138?psln=eWZkNGI5dWl1ODg1">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/mathW1zzard?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
   </a>
 </p>
 
 ---
 
-## ⚡ The 10-Second Scan
+## ⚡ The Quick Scan
 
-| | |
+- 🎯 **Focus:** Web development, programming logic, and practical software systems
+- 🧰 **Current Stack:** HTML · CSS · JavaScript · PHP · Python · SQLite
+- 🏗️ **Building:** Management systems and web applications
+- 🌱 **Next on my roadmap:** React · Node.js · Express
+- 🧠 **Developer mindset:** Understand the problem, build the solution, test the results, and keep improving
+
+## 👨‍💻 About Me
+
+I'm an aspiring software developer who believes that becoming a better programmer goes beyond making code work. It's about understanding the logic behind a feature, knowing how information flows through a system, and building solutions that are useful and maintainable.
+
+My projects are where I put that mindset into practice.
+
+- 🔍 **Problem-solving:** Breaking complex requirements into smaller, manageable steps.
+- 🧩 **System building:** Exploring how interfaces, application logic, and databases work together.
+- 🛠️ **Learning by doing:** Building projects, debugging errors, and improving through experimentation.
+- 🚀 **Looking ahead:** Expanding my skills toward modern frontend and backend development.
+
+> My goal isn't just to write more code. It's to understand more of what I build.
+
+---
+
+## 💻 Tech Stack
+
+### 🧱 Current Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,sqlite&theme=dark" alt="HTML, CSS, JavaScript, PHP, Python, SQLite" />
+</p>
+
+| Technology | What I'm using it for |
 |---|---|
-| 🎯 **My focus** | Building practical software and strengthening my programming fundamentals |
-| 🧰 **Current stack** | HTML, CSS, JavaScript, PHP, Python, SQLite |
-| 🧪 **What I build** | Web applications, management systems, and hands-on software projects |
-| 🛣️ **Next on the roadmap** | React, Node.js, and Express |
-| 🧠 **My approach** | Understand the problem → design the solution → build → test → improve |
+| HTML | Structuring web pages and interfaces |
+| CSS | Styling layouts and improving user experience |
+| JavaScript | Adding interactive behavior to web applications |
+| PHP | Building server-side application logic |
+| Python | Practicing programming logic and developing applications |
+| SQLite | Working with relational data in lightweight database projects |
 
-## 🧭 A Little About My Journey
+### 🌱 Next on the Roadmap
 
-I'm interested in more than making code work. I want to understand *why* it works.
-
-That means exploring the logic behind a feature, how data moves through a system, how the interface communicates with the application, and how thoughtful design can make software easier to use.
-
-My projects are my learning laboratory. Each one gives me a chance to practice problem-solving, work through technical challenges, and turn ideas into something tangible.
-
-I'm continuously learning, documenting what I discover, and improving my ability to build software independently.
-
-**My philosophy:** Build with curiosity. Debug with patience. Improve with every iteration. 🚀
-
-## 🧰 My Tech Stack
-
-### Languages & Web Fundamentals
+These technologies are on my learning roadmap as I continue expanding my development skills.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-Next%20to%20learn-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React — planned learning" />
+  <img src="https://img.shields.io/badge/Node.js-Next%20to%20learn-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js — planned learning" />
+  <img src="https://img.shields.io/badge/Express-Next%20to%20learn-EEEEEE?style=for-the-badge&logo=express&logoColor=black" alt="Express — planned learning" />
 </p>
 
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### 🌱 Currently on My Roadmap
-
-These are technologies I plan to explore and learn; they aren't claims of current proficiency.
-
-<p>
-  <img src="https://img.shields.io/badge/React-Planned-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React — planned" />
-  <img src="https://img.shields.io/badge/Node.js-Planned-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js — planned" />
-  <img src="https://img.shields.io/badge/Express-Planned-444444?style=for-the-badge&logo=express&logoColor=white" alt="Express — planned" />
-</p>
+**The direction:** Strengthen my foundations, expand into modern JavaScript development, and learn how to build complete applications across the frontend and backend.
 
 ---
 
-## 🧪 The Project Lab
+## 🚀 Featured Projects
 
-**Three projects. Three opportunities to learn, build, and solve problems.**
+Three project slots. Three opportunities to show how I think, what I build, and what I'm learning.
 
-I use this space to showcase what I'm building, explain the problems behind each project, and share the technical decisions that bring them to life.
+Each project includes room for a large screenshot, a problem statement, key features, a technology stack, and a direct link to its source code.
 
-<!-- PROJECT 1: Replace the placeholder image and repository URL with your own. -->
-
-### 01. 🏛️ Barangay Queue, Service & Attendance Management System
+### 01 · 🏛️ Barangay Queue, Service & Attendance Management System
 
 <p align="center">
-  <img src="https://placehold.co/1200x620/101827/E5E7EB?text=PROJECT+01+-+ADD+YOUR+SCREENSHOT" alt="Barangay system project screenshot placeholder" width="100%" />
+  <img src="https://placehold.co/1200x560/161B22/58A6FF?text=PROJECT+01%0ABarangay+Queue+Management+System%0AReplace+with+your+project+screenshot" alt="Barangay Queue Management System screenshot placeholder" width="100%" />
 </p>
 
-**The mission:** Explore how a digital workflow can help organize queueing, service requests, and attendance in a barangay setting.
+**The challenge**
 
-**Designed around:** Queue registration, regular and priority clients, attendance records, filtering, and printable reports.
+Organizing queueing, service requests, and attendance records requires a clear workflow for both staff and constituents.
 
-**What I'm exploring:** Turning real administrative workflows into a system with clear processes and useful records.
+**What it explores**
 
-**Tech stack:** Python · HTML · CSS · JavaScript · SQLite *(update to match your final implementation)*
+- 📝 Queue registration and client information management
+- 🧑‍🤝‍🧑 Regular and priority client categorization
+- 📋 Attendance records with service and date filtering
+- 🖨️ Printable attendance reports
 
-🔗 **Repository:** [Add project repository URL](YOUR_PROJECT_1_REPOSITORY_URL)
+**Technical focus:** Translating administrative workflows into structured application logic, searchable records, and practical interfaces.
+
+**Tech stack:** Python · HTML · CSS · JavaScript · SQLite *(verify against your final implementation)*
+
+🔗 **Source code:** [View Repository](YOUR_BARANGAY_PROJECT_REPOSITORY_URL)
 
 ---
 
-<!-- PROJECT 2: Replace the placeholder image and repository URL with your own. -->
-
-### 02. 🛍️ Laicom Sales & Promotions
+### 02 · 🛍️ Laicom Sales & Promotions
 
 <p align="center">
-  <img src="https://placehold.co/1200x620/101827/E5E7EB?text=PROJECT+02+-+ADD+YOUR+SCREENSHOT" alt="Laicom e-commerce project screenshot placeholder" width="100%" />
+  <img src="https://placehold.co/1200x560/161B22/FF7B72?text=PROJECT+02%0ALaicom+Sales+%26+Promotions%0AReplace+with+your+project+screenshot" alt="Laicom Sales and Promotions screenshot placeholder" width="100%" />
 </p>
 
-**The mission:** Develop an e-commerce experience that connects product discovery, shopping cart functionality, customer accounts, and order management.
+**The challenge**
 
-**Features explored:** Product browsing, cart management, account handling, order workflows, and administrative sales analytics.
+An e-commerce application needs to connect product browsing, shopping cart operations, customer accounts, orders, and administrative workflows.
 
-**What I'm exploring:** Connecting frontend interactions with backend logic and database operations in a more complete application.
+**What it explores**
 
-**Tech stack:** PHP · PDO · MySQL · HTML · CSS · JavaScript *(adjust to match the repository)*
+- 🛒 Product browsing and shopping cart functionality
+- 👤 Customer accounts and login workflows
+- 📦 Order management and status updates
+- 📊 Administrative product management and sales analytics
 
-🔗 **Repository:** [Add project repository URL](YOUR_PROJECT_2_REPOSITORY_URL)
+**Technical focus:** Connecting frontend interactions to backend processing and database operations using PHP and PDO.
+
+**Tech stack:** PHP · MySQL · PDO · HTML · CSS · JavaScript
+
+🔗 **Source code:** [View Repository](YOUR_LAICOM_PROJECT_REPOSITORY_URL)
 
 ---
 
-<!-- PROJECT 3: Replace this entire card with your third featured project. -->
-
-### 03. 🚀 [Your Next Featured Project]
+### 03 · 🚀 [Your Third Featured Project]
 
 <p align="center">
-  <img src="https://placehold.co/1200x620/101827/E5E7EB?text=PROJECT+03+-+YOUR+NEXT+BUILD" alt="Third project screenshot placeholder" width="100%" />
+  <img src="https://placehold.co/1200x560/161B22/D2A8FF?text=PROJECT+03%0AYour+Next+Featured+Build%0AReplace+with+your+project+screenshot" alt="Third project screenshot placeholder" width="100%" />
 </p>
 
-**The mission:** [What problem does this project solve?]
+**The challenge**
 
-**Key features:** [Highlight two or three interesting features.]
+[Describe the problem your project addresses.]
 
-**What I learned:** [Describe a technical challenge, design decision, or new concept.]
+**What it does**
 
-**Tech stack:** [List the technologies used.]
+- ✨ [Highlight an important feature]
+- ⚙️ [Highlight another feature]
+- 📈 [Describe the value or outcome]
 
-🔗 **Repository:** [Add project repository URL](YOUR_PROJECT_3_REPOSITORY_URL)
+**Technical focus:** [Explain an interesting programming concept, design decision, or challenge you tackled.]
+
+**Tech stack:** [List the technologies actually used.]
+
+🔗 **Source code:** [View Repository](YOUR_THIRD_PROJECT_REPOSITORY_URL)
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Development Activity
 
-A little activity snapshot from my corner of GitHub. Follow along as I build, experiment, and keep learning.
+A snapshot of my GitHub journey: what I'm building, the languages appearing in my repositories, and how my contribution activity develops over time.
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathW1zzard&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Joseph's GitHub statistics" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathW1zzard&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in Joseph's repositories" />
+
+  <br />
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=mathW1zzard&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathW1zzard&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Joseph's GitHub statistics" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathW1zzard&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathW1zzard&theme=github-dark&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mathW1zzard&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathW1zzard&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
-> 📊 These cards are provided by external services and may occasionally be unavailable. Language statistics reflect GitHub-detected repository usage, not a complete measurement of skill or proficiency.
+*Note: These statistics are generated by external services. Language cards reflect repository usage, not necessarily proficiency, and activity graphs depend on recorded GitHub contributions.*
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-I'm always interested in learning from other developers, exchanging ideas, and discovering better ways to build software.
+- 🧠 Improving programming logic and problem-solving skills
+- 🏗️ Building and refining practical web applications
+- 🗃️ Strengthening my understanding of backend processes and database operations
+- ⚛️ Preparing to learn React for frontend development
+- 🟢 Planning to explore Node.js and Express for backend JavaScript development
+- 🧹 Learning to write clearer, more maintainable code through practice
 
-<p>
+---
+
+## 🌐 Find Me Around the Web
+
+I'm open to connecting with recruiters, fellow developers, and people who enjoy building useful things with technology.
+
+<p align="center">
   <a href="https://github.com/mathW1zzard">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-dionisio-337695440/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/joseph.dionisio.1428/">
-    <img src="https://img.shields.io/badge/Facebook-Find%20me-0866FF?style=flat-square&logo=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Find%20me-0866FF?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/jos5_138?psln=eWZkNGI5dWl1ODg1">
-    <img src="https://img.shields.io/badge/Instagram-Behind%20the%20scenes-E4405F?style=flat-square&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow%20along-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
 
-🌐 **Portfolio:** [Add your portfolio website URL here](YOUR_PORTFOLIO_URL)
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="YOUR_PORTFOLIO_URL">Coming soon</a>
+</p>
 
 ---
 
-<p align="center">
-  <i>Still learning. Still building. Always curious. ✨</i>
-</p>
+<div align="center">
+
+### 💡 Still learning. Still building. Always curious.
+
+*Every project is another chance to understand the craft a little better.* 🚀
+
+</div>
